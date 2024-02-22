@@ -45,9 +45,7 @@ function App() {
         </div>
       </main>
 
-      <footer>
-        <p className="country">United Kingdom</p>
-      </footer>
+      
     </div>
   )
 }
